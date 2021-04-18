@@ -1,16 +1,7 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+Here i have customised the code i learned from a coarse which ill link below, This is just a prediction app for beginners
 
-# Magic 8 Ball 🎱
-
-## Our Goal
-
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
-
-
-## What you will create
-
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+link to the coarse : https://www.udemy.com/share/101WB6AEETcVpbTHwH/
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
